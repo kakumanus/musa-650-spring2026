@@ -10,15 +10,11 @@ Satellite remote sensing is the science of converting raw aerial imagery into ac
 
 ### Instructors
 
-**[Guray Erus](https://www.med.upenn.edu/cbica/aibil/gerus.html), PhD**
+| Name | Email | Office Hours |
+|------|-------|-------------|
+| [Guray Erus](https://www.med.upenn.edu/cbica/aibil/gerus.html), PhD | [guray.erus@pennmedicine.upenn.edu](mailto:guray.erus@pennmedicine.upenn.edu) | Friday 3-5 PM (or by appointment in case of conflict) |
+| [Nissim Lebovits](https://nlebovits.github.io/), MCP | [nissimlebovits@proton.me](mailto:nissimlebovits@proton.me) | By appointment |
 
-- [guray.erus@pennmedicine.upenn.edu](guray.erus@pennmedicine.upenn.edu)
-- Office hours: Friday 3-5 PM (or by appointment in case of conflict)
-
-**[Nissim Lebovits](https://nlebovits.github.io/), MCP**
-
-- [nissimlebovits@proton.me](nissimlebovits@proton.me)
-- Office hours by appointment
 
 ## Objectives
 
@@ -78,14 +74,21 @@ For assignments that include interactive visualizations (e.g., `geemap`), please
 
 ## Software
 
-This course relies on the use of Python and various related packages. All software is open-source and freely available. We will use common tools to facilitate collaboration and ease of use. You are expected to use VSCode, the Google Cloud SDK, Git, `pipenv`, and `pyenv` during the course in order to make sure that we're all using consistent environments and minimize dependency issues and other kinds of software problems. For information on setting up your environment, see the [setup docs](docs/SETUP.md).
+This course relies on the use of Python and various related packages. All software is open-source and freely available. We will use common tools to facilitate collaboration and ease of use. You are expected to use VSCode, Git, and `uv`during the course in order to make sure that we're all using consistent environments and minimize dependency issues and other kinds of software problems.
+
+### Installation
+
+1. Install [VSCode](https://code.visualstudio.com/download).
+2. Install [Git Bash](https://git-scm.com/install/).
+3. Install [`uv`](https://docs.astral.sh/uv/getting-started/installation/).
+4. Create a fork of this repository.
+5. Clone your fork to your local machine in the location of your choice.
+6. In VSCode, open the cloned repository. Open a Git Bash terminal and run `uv sync` to install the dependencies.
+7. That's it! You're now set up.
 
 ## Schedule
 
-MUSA 650 meets in person on Thursday from 8:30am-11:29am in Meyerson B13.
-
-- Class Zoom Link: https://pennmedicine.zoom.us/j/95635616221
-  - In person participation is required. Online participation is an option only in case of a valid excuse with approval.
+MUSA 650 meets in person on Thursday from 8:30am-11:29am in Meyerson B13. In person participation is required. Online participation is an option only in case of a valid excuse with approval.
 
 | Week #       | Date | Topic                                                                                                                                     | Assignment                                                      |
 | ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
