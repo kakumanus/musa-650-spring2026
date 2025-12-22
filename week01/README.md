@@ -14,3 +14,5 @@ See [README.md](../../README.md#software) for instructions.
 
 ### Lecture: Intro to Remote Sensing and Applications to Urban Planning
 Slides: [TODO]
+
+### Additional Resources
