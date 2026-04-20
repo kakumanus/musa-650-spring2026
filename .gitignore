@@ -1,3 +1,10 @@
 data/
 *.pt
 EuroSAT_RGB/
+ds/
+assignments/final_project_files/.DS_Store
+assignments/final_project_files/clay-v1.5.ckpt
+assignments/EuroSATallBands.zip
+assignments/.DS_Store
+.idea/workspace.xml
+.DS_Store
