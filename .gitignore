@@ -9,3 +9,9 @@ assignments/.DS_Store
 .idea/workspace.xml
 .DS_Store
 assignments/final_project_files/cache/
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+assignments/final_project_files/baseline_model/parcel_file_current.geojson
