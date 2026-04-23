@@ -1,4 +1,4 @@
-data/
+/data/
 *.pt
 EuroSAT_RGB/
 ds/
